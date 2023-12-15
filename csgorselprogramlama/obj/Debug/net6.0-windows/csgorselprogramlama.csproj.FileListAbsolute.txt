@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\bin\Debug\net6.0-windows\csgorselprogramlama.exe
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\bin\Debug\net6.0-windows\csgorselprogramlama.deps.json
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\bin\Debug\net6.0-windows\csgorselprogramlama.runtimeconfig.json
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\bin\Debug\net6.0-windows\csgorselprogramlama.dll
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\bin\Debug\net6.0-windows\csgorselprogramlama.pdb
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.Form1.resources
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.dll
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\refint\csgorselprogramlama.dll
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.pdb
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\csgorselprogramlama.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\csgorselprogramlama\csgorselprogramlama\obj\Debug\net6.0-windows\ref\csgorselprogramlama.dll
